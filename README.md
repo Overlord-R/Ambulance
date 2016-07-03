@@ -1,2 +1,3 @@
 # Ambulance
-Data Logger for Smartly controlling the Street Lights
+Data Logger for Smartly controlling the Street Lights.
+Extensions for Taxi aggregators.
